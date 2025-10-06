@@ -1,8 +1,6 @@
 
 # Al-Qifl: A Safe Ransomware Simulation for Educational Purposes
 
-![Al-Qifl Logo](https://via.placeholder.com/400x200?text=Al-Qifl+Logo) <!-- Placeholder for a future logo -->
-
 ## Important Disclaimer
 
 **THIS PROJECT IS FOR EDUCATIONAL PURPOSES ONLY. DO NOT RUN IT ON ANY REAL OR IMPORTANT DATA. The author and contributors are not responsible for any damage that may result from the misuse of this tool.**
