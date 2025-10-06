@@ -1,7 +1,6 @@
 
 # Al-Qifl: محاكاة آمنة لبرامج الفدية لأغراض تعليمية
 
-![Al-Qifl Logo](https://via.placeholder.com/400x200?text=Al-Qifl+Logo) <!-- Placeholder for a future logo -->
 
 ## تنويه هام
 
